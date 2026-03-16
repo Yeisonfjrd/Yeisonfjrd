@@ -1,65 +1,88 @@
 <div align="center">
 
-<img src="https://imgur.com/EuXQwRS.png" width="140"/>
+<img src="https://imgur.com/EuXQwRS.png" alt="Yeisonfjrd" width="180">
 
-# Yeison Fajardo
+<h1>Yeison Fajardo</h1>
 
-Backend Developer  
-Software Development Student
+<p>
+Software Development Student • Backend Development
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=yeisonfjrd&color=blueviolet&style=flat-square&label=Profile+Views">
 
 </div>
 
----
-## About
+<div align="center">
 
-I am a software development student primarily interested in backend systems and the infrastructure behind web applications.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=36BCF7FF&center=true&vCenter=true&width=800&lines=Backend+Developer;Java+%7C+TypeScript;I+like+building+APIs;Curious+about+how+complex+systems+work)](https://git.io/typing-svg)
 
-My main focus is working with **Java and TypeScript**, building and understanding the systems that run behind websites — APIs, data handling and server-side logic.
+</div>
 
-I enjoy working on the more complex side of software development: designing services, structuring applications and understanding how different parts of a system communicate with each other.
+<div align="center">
 
----
+<h2>About</h2>
 
-## Technologies
+<p>
+I am a software development student mainly interested in the systems that run behind web applications.
+<br><br>
+My focus is on <strong>Java</strong> and <strong>TypeScript</strong>, building and understanding APIs, backend services and the logic that powers web platforms.
+<br><br>
+I enjoy working with the more complex parts of software: system structure, communication between services and backend architecture.
+</p>
 
-**Languages**
+</div>
 
-TypeScript  
-JavaScript  
-Java  
-Go
 
-**Backend**
+<div align="center">
 
-Node.js  
-REST APIs  
-PostgreSQL  
-MySQL
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
-**Frontend**
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 
-React  
-Next.js  
-Tailwind
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
----
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 
-## Selected projects
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 
-**Unit Converter API**  
-REST API built with Node.js and TypeScript focused on reliability and validation.
+</div>
 
-**URL Shortener**  
-A simple URL shortener exploring redirection logic, persistence and link management.
 
-More projects are available in my repositories.
+<div align="center">
 
----
+<h2>GitHub Stats</h2>
 
-## Links
+<table>
+<tr>
+<td>
 
-LinkedIn  
-https://www.linkedin.com/in/yeison-fajardo/
+<img src="https://github-readme-stats.vercel.app/api?username=yeisonfjrd&show_icons=true&count_private=true&theme=radical">
 
-Portfolio  
-https://yeisonfjrd.netlify.app/
+</td>
+
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeisonfjrd&layout=compact&theme=radical">
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+<div align="center">
+
+<h2>Links</h2>
+
+<a href="https://www.linkedin.com/in/yeison-fajardo/">
+LinkedIn
+</a>
+
+•
+
+<a href="https://portfolio-yeison.vercel.app/">
+Portfolio
+</a>
+
+</div>
