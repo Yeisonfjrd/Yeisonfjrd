@@ -56,4 +56,27 @@ Me especializo en **Java** y **TypeScript**, construyendo y entendiendo APIs, se
 ---
 
 <!-- DYNAMIC_START -->
+
+---
+
+### 💬 Frase del día
+
+> *"El código limpio siempre parece que fue escrito por alguien que se importa."*
+>
+> — **Robert C. Martin**
+
+---
+
+### 🕐 Actividad reciente
+
+| | Repositorio | Acción |
+|:---:|:---|:---|
+| ⭐ | [Yeisonfjrd/ClimaApp](https://github.com/Yeisonfjrd/ClimaApp) | Le dio una estrella |
+| 🔀 | [MirellaAlina/ClimaApp](https://github.com/MirellaAlina/ClimaApp) | Opened un PR |
+| 🔀 | [Yeisonfjrd/rdr2-porfolio](https://github.com/Yeisonfjrd/rdr2-porfolio) | Merged un PR |
+| 🔀 | [Nirbeat/tp_eda2](https://github.com/Nirbeat/tp_eda2) | Merged un PR |
+| ✨ | [Yeisonfjrd/tp_eda2](https://github.com/Yeisonfjrd/tp_eda2) | Creó branch |
+
+<sub>Actualizado automáticamente · 16/05/2026</sub>
+
 <!-- DYNAMIC_END -->
