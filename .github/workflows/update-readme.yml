@@ -1,4 +1,4 @@
-name: Update README daily
+name: Actualizar README
 
 on:
   schedule:
@@ -12,24 +12,24 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repo
+      - name: Clonar repositorio
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: Configurar Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
+      - name: Instalar dependencias
         run: pip install requests
 
-      - name: Run update script
+      - name: Ejecutar script
         run: python scripts/update_readme.py
 
-      - name: Commit and push
+      - name: Hacer commit y push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --staged --quiet || git commit -m "chore: update README [$(date +'%Y-%m-%d')]"
+          git diff --staged --quiet || git commit -m "chore: actualizar README [$(date +'%Y-%m-%d')]"
           git push
