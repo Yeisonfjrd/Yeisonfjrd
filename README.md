@@ -88,4 +88,16 @@ Portfolio
 </div>
 
 <!-- DYNAMIC_START -->
+<div align="center">
+
+### 💬 Quote of the day
+> "First, solve the problem. Then, write the code." — **John Johnson**
+
+</div>
+
+### 🕐 Recent Activity
+- Could not load activity
+
+*Last updated: May 16, 2026*
+
 <!-- DYNAMIC_END -->
