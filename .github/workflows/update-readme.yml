@@ -2,7 +2,7 @@ name: Actualizar README
 
 on:
   schedule:
-    - cron: '0 12 * * *'
+    - cron: '0 12 * * *' 
   workflow_dispatch:
 
 jobs:
@@ -14,7 +14,21 @@ jobs:
     steps:
       - name: Clonar repositorio
         uses: actions/checkout@v4
+      - name: Generar snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: yeisonfjrd
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Publicar snake en rama output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Configurar Python
         uses: actions/setup-python@v5
         with:
@@ -23,13 +37,12 @@ jobs:
       - name: Instalar dependencias
         run: pip install requests
 
-      - name: Ejecutar script
+      - name: Actualizar README
         run: python scripts/update_readme.py
-
-      - name: Hacer commit y push
+      - name: Commit y push
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "yeisonfjrd"
+          git config user.email "${{ secrets.GIT_EMAIL }}"
           git add README.md
-          git diff --staged --quiet || git commit -m "chore: actualizar README [$(date +'%Y-%m-%d')]"
+          git diff --staged --quiet || git commit -m "chore: update readme [$(date +'%Y-%m-%d')]"
           git push
