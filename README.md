@@ -61,9 +61,9 @@ Me especializo en **Java** y **TypeScript**, construyendo y entendiendo APIs, se
 
 ### 💬 Frase del día
 
-> *"El código limpio siempre parece que fue escrito por alguien que se importa."*
+> *"Escribe código como si la persona que lo va a mantener fuera un psicópata que sabe dónde vivís."*
 >
-> — **Robert C. Martin**
+> — **Martin Golding**
 
 ---
 
@@ -77,6 +77,6 @@ Me especializo en **Java** y **TypeScript**, construyendo y entendiendo APIs, se
 | 🔀 | [Nirbeat/tp_eda2](https://github.com/Nirbeat/tp_eda2) | Merged un PR |
 | ✨ | [Yeisonfjrd/tp_eda2](https://github.com/Yeisonfjrd/tp_eda2) | Creó branch |
 
-<sub>Actualizado automáticamente · 17/05/2026</sub>
+<sub>Actualizado automáticamente · 18/05/2026</sub>
 
 <!-- DYNAMIC_END -->
