@@ -26,28 +26,7 @@ Software development student focused on the systems running behind web applicati
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeisonfjrd&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" alt="Stats">
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeisonfjrd&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" alt="Top Languages">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeisonfjrd&theme=tokyonight&hide_border=true" alt="Streak">
-</div>
-
-## Recent Activity
-
 <!-- DYNAMIC_START -->
-| | Repositorio | Acción |
-|:---:|:---|:---|
-| ⭐ | [Yeisonfjrd/ClimaApp](https://github.com/Yeisonfjrd/ClimaApp) | Le dio una estrella |
-| 🔀 | [MirellaAlina/ClimaApp](https://github.com/MirellaAlina/ClimaApp) | Opened un PR |
-| 🔀 | [Yeisonfjrd/rdr2-porfolio](https://github.com/Yeisonfjrd/rdr2-porfolio) | Merged un PR |
-| 🔀 | [Nirbeat/tp_eda2](https://github.com/Nirbeat/tp_eda2) | Merged un PR |
-
 <sub>Actualizado automáticamente · 19/05/2026</sub>
 <!-- DYNAMIC_END -->
 
