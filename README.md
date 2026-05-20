@@ -27,7 +27,9 @@ Software development student focused on the systems running behind web applicati
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 <!-- DYNAMIC_START -->
-<sub>Actualizado automáticamente · 19/05/2026</sub>
+_Sin actividad pública reciente._
+
+<sub>Actualizado automáticamente · 20/05/2026</sub>
 <!-- DYNAMIC_END -->
 
 ## Contributions
