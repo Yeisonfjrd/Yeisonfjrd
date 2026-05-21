@@ -27,9 +27,13 @@ Software development student focused on the systems running behind web applicati
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 <!-- DYNAMIC_START -->
-_Sin actividad pública reciente._
+| | Repositorio | Acción |
+|:---:|:---|:---|
+| ⭐ | [Yeisonfjrd/ClimaApp](https://github.com/Yeisonfjrd/ClimaApp) | Le dio una estrella |
+| 🔀 | [MirellaAlina/ClimaApp](https://github.com/MirellaAlina/ClimaApp) | Opened un PR |
+| 🔀 | [Yeisonfjrd/rdr2-porfolio](https://github.com/Yeisonfjrd/rdr2-porfolio) | Merged un PR |
 
-<sub>Actualizado automáticamente · 20/05/2026</sub>
+<sub>Actualizado automáticamente · 21/05/2026</sub>
 <!-- DYNAMIC_END -->
 
 ## Contributions
