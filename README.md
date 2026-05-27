@@ -29,12 +29,9 @@ Software development student focused on the systems running behind web applicati
 <!-- DYNAMIC_START -->
 | | Repositorio | Acción |
 |:---:|:---|:---|
-| ⭐ | [Yeisonfjrd/github-scanner](https://github.com/Yeisonfjrd/github-scanner) | Le dio una estrella |
-| 🔀 | [Yeisonfjrd/Portfolio.yeison](https://github.com/Yeisonfjrd/Portfolio.yeison) | Merged un PR |
-| 🔀 | [MirellaAlina/ClimaApp](https://github.com/MirellaAlina/ClimaApp) | Merged un PR |
-| 🔀 | [Yeisonfjrd/docsearch-api](https://github.com/Yeisonfjrd/docsearch-api) | Closed un PR |
+| 🔀 | [Yeisonfjrd/github-scanner](https://github.com/Yeisonfjrd/github-scanner) | Merged un PR |
 
-<sub>Actualizado automáticamente · 26/05/2026</sub>
+<sub>Actualizado automáticamente · 27/05/2026</sub>
 <!-- DYNAMIC_END -->
 
 ## Contributions
