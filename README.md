@@ -1,43 +1,40 @@
-<div align="center">
-  <img src="https://imgur.com/EuXQwRS.png" width="120" alt="Yeison Fajardo">
+# Yeisonfjrd — Personal repository of a backend developer and software development student
+## Overview
+This repository serves as a central hub for my personal projects, experiments, and contributions to the open-source community, focusing on backend development with Java, TypeScript, and Go. It contains a variety of projects, including APIs, backend services, and system architecture explorations. The goal is to showcase my skills and interests in software development, particularly in designing and implementing robust backend systems.
 
-  # Yeison Fajardo
-  **Backend Developer · Software Development Student**
+## Tech Stack
+* Java
+* TypeScript
+* Go
+* JavaScript
+* Node.js
+* Docker
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yeison-fajardo)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-yeison.vercel.app)
-  [![Views](https://komarev.com/ghpvc/?username=yeisonfjrd&color=7c3aed&style=flat-square&label=profile+views)](https://github.com/yeisonfjrd)
-</div>
+## Prerequisites
+To work with the projects in this repository, you need to have the following installed:
+* Java Development Kit (JDK)
+* Node.js
+* Go
+* Docker
 
-<div align="center">
+## Getting Started
+To get started with any project in this repository, follow these steps:
+1. Clone the repository using `git clone https://github.com/Yeisonfjrd/Yeisonfjrd.git`
+2. Navigate to the project directory
+3. Install dependencies using `npm install` or `go get` depending on the project's requirements
+4. Configure the project as needed
+5. Run the project using `npm start` or `go run main.go`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=7C3AED&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+TypeScript+%7C+Go;Building+APIs+and+backend+services;Interested+in+system+architecture)](https://git.io/typing-svg)
+## Environment Variables
+| Variable | Default | Description |
+| --- | --- | --- |
+| PORT | 3000 | The port number to use for the server |
 
-</div>
+## API Reference
+Since this repository contains a variety of projects, API references will be provided in each project's respective README file.
 
-Software development student focused on the systems running behind web applications. I work mainly with **Java**, **TypeScript** and **Go**, building APIs and backend services. I enjoy the more complex parts of software: system structure, service communication and backend architecture.
+## Testing
+To run tests for a project, navigate to the project directory and use the appropriate command, such as `npm test` or `go test`.
 
-## Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-<!-- DYNAMIC_START -->
-| | Repositorio | Acción |
-|:---:|:---|:---|
-| 🔀 | [Yeisonfjrd/github-scanner](https://github.com/Yeisonfjrd/github-scanner) | Merged un PR |
-
-<sub>Actualizado automáticamente · 03/06/2026</sub>
-<!-- DYNAMIC_END -->
-
-## Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeisonfjrd/yeisonfjrd/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yeisonfjrd/yeisonfjrd/output/github-contribution-grid-snake.svg">
-  <img alt="contribution animation" src="https://raw.githubusercontent.com/yeisonfjrd/yeisonfjrd/output/github-contribution-grid-snake.svg">
-</picture>
+## Contributing
+Contributions to this repository are welcome. If you're interested in contributing, please fork the repository, make your changes, and submit a pull request. Ensure that your changes are well-documented and follow standard professional guidelines.
