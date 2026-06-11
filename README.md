@@ -29,9 +29,11 @@ Software development student focused on the systems running behind web applicati
 <!-- DYNAMIC_START -->
 | | Repositorio | Acción |
 |:---:|:---|:---|
+| ⭐ | [midudev/canirun.ai](https://github.com/midudev/canirun.ai) | Le dio una estrella |
+| ⭐ | [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) | Le dio una estrella |
 | ⭐ | [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) | Le dio una estrella |
 
-<sub>Actualizado automáticamente · 10/06/2026</sub>
+<sub>Actualizado automáticamente · 11/06/2026</sub>
 <!-- DYNAMIC_END -->
 
 ## Contributions
