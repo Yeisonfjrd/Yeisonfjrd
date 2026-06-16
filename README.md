@@ -29,11 +29,13 @@ Software development student focused on the systems running behind web applicati
 <!-- DYNAMIC_START -->
 | | Repositorio | Acción |
 |:---:|:---|:---|
+| ✨ | [Yeisonfjrd/tp_eda2](https://github.com/Yeisonfjrd/tp_eda2) | Creó branch |
+| ⭐ | [Nirbeat/tp_eda2](https://github.com/Nirbeat/tp_eda2) | Le dio una estrella |
+| ⭐ | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Le dio una estrella |
 | ⭐ | [midudev/canirun.ai](https://github.com/midudev/canirun.ai) | Le dio una estrella |
 | ⭐ | [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) | Le dio una estrella |
-| ⭐ | [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) | Le dio una estrella |
 
-<sub>Actualizado automáticamente · 15/06/2026</sub>
+<sub>Actualizado automáticamente · 16/06/2026</sub>
 <!-- DYNAMIC_END -->
 
 ## Contributions
