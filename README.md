@@ -29,13 +29,13 @@ Software development student focused on the systems running behind web applicati
 <!-- DYNAMIC_START -->
 | | Repositorio | Acción |
 |:---:|:---|:---|
+| ⭐ | [kekzl/imp](https://github.com/kekzl/imp) | Le dio una estrella |
+| ⭐ | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | Le dio una estrella |
+| ⭐ | [ivorpad/mercadona-cli](https://github.com/ivorpad/mercadona-cli) | Le dio una estrella |
 | 🔀 | [Nirbeat/tp_eda2](https://github.com/Nirbeat/tp_eda2) | Merged un PR |
 | ✨ | [Yeisonfjrd/tp_eda2](https://github.com/Yeisonfjrd/tp_eda2) | Creó branch |
-| ⭐ | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Le dio una estrella |
-| ⭐ | [midudev/canirun.ai](https://github.com/midudev/canirun.ai) | Le dio una estrella |
-| ⭐ | [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) | Le dio una estrella |
 
-<sub>Actualizado automáticamente · 01/07/2026</sub>
+<sub>Actualizado automáticamente · 02/07/2026</sub>
 <!-- DYNAMIC_END -->
 
 ## Contributions
