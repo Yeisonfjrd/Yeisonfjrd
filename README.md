@@ -32,10 +32,8 @@ Software development student focused on the systems running behind web applicati
 | ⭐ | [midudev/mundial-de-clicks](https://github.com/midudev/mundial-de-clicks) | Le dio una estrella |
 | ⭐ | [TheOrcDev/videorc](https://github.com/TheOrcDev/videorc) | Le dio una estrella |
 | ⭐ | [PlummersSoftwareLLC/TinyRetroPad](https://github.com/PlummersSoftwareLLC/TinyRetroPad) | Le dio una estrella |
-| ⭐ | [kekzl/imp](https://github.com/kekzl/imp) | Le dio una estrella |
-| ⭐ | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | Le dio una estrella |
 
-<sub>Actualizado automáticamente · 31/07/2026</sub>
+<sub>Actualizado automáticamente · 01/08/2026</sub>
 <!-- DYNAMIC_END -->
 
 ## Contributions
