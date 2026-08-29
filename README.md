@@ -29,9 +29,11 @@ Software development student focused on the systems running behind web applicati
 <!-- DYNAMIC_START -->
 | | Repositorio | Acción |
 |:---:|:---|:---|
+| ✨ | [Yeisonfjrd/garmin-connect-mcp](https://github.com/Yeisonfjrd/garmin-connect-mcp) | Creó branch |
+| 🍴 | [epodivilov/garmin-connect-mcp](https://github.com/epodivilov/garmin-connect-mcp) | Hizo fork |
 | ⭐ | [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | Le dio una estrella |
 
-<sub>Actualizado automáticamente · 28/08/2026</sub>
+<sub>Actualizado automáticamente · 29/08/2026</sub>
 <!-- DYNAMIC_END -->
 
 ## Contributions
