@@ -1,4 +1,11 @@
-### Yeison Fajardo
+<div align="center">
+  <img src="https://imgur.com/EuXQwRS.png" width="120" alt="Yeison Fajardo">
+
+  ### Yeison Fajardo
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yeison-fajardo)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-yeison.vercel.app)
+</div>
 
 Backend developer, studying Software Development at Universidad Provincial de Ezeiza, Buenos Aires.
 
@@ -18,5 +25,3 @@ I like the part of software you only notice when it breaks. Lately most of what 
 - [**Short-url-backend**](https://github.com/Yeisonfjrd/Short-url-backend): a URL shortener in Go. Small on purpose.
 
 **Usually working with** Java and Spring Boot · TypeScript, Node and Fastify · Go · PostgreSQL · Docker
-
-[LinkedIn](https://linkedin.com/in/yeison-fajardo) · [Portfolio](https://portfolio-yeison.vercel.app)
