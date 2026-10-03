@@ -1,8 +1,8 @@
-name: Actualizar README
+name: Access log
 
 on:
   schedule:
-    - cron: '0 08 * * *' 
+    - cron: '0 08 * * *'
   workflow_dispatch:
 
 jobs:
@@ -12,37 +12,21 @@ jobs:
       contents: write
 
     steps:
-      - name: Clonar repositorio
-        uses: actions/checkout@v4
-      - name: Generar snake animation
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: yeisonfjrd
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: actions/checkout@v4
 
-      - name: Publicar snake en rama output
-        uses: crazy-max/ghaction-github-pages@v4
+      - uses: actions/setup-node@v4
         with:
-          target_branch: output
-          build_dir: dist
+          node-version: '22'
+
+      - name: Render access log
+        run: node scripts/access-log.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Configurar Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
 
-      - name: Instalar dependencias
-        run: pip install requests
-
-      - name: Actualizar README
-        run: python scripts/update_readme.py
-      - name: Commit y push
+      - name: Commit and push
         run: |
           git config user.name "yeisonfjrd"
           git config user.email "${{ secrets.GIT_EMAIL }}"
-          git add README.md
-          git diff --staged --quiet || git commit -m "chore: update readme [$(date +'%Y-%m-%d')]"
+          git add assets
+          git diff --staged --quiet || git commit -m "chore: refresh access log [$(date +'%Y-%m-%d')]"
           git push
