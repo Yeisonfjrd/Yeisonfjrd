@@ -69,13 +69,22 @@ const THEMES = {
   light: { bg: "#ffffff", border: "#d0d7de", text: "#1f2328", dim: "#8c959f", prompt: "#7c3aed", ok: "#1a7f37", created: "#0969da", empty: "#9a6700", method: "#8250df" },
 };
 
+const CHAR = 7.8; // width of one 13px monospace character
+const PATH_X = 290;
+
 function render(commits, t) {
-  const W = 960, top = 64, step = 24;
+  const W = 1000, top = 64, step = 24;
   const H = top + commits.length * step + 30;
   const statusColor = (s) => (s === 201 ? t.created : s === 204 ? t.empty : t.ok);
 
+  // The path column is as wide as the longest path (up to 44 chars); the message gets the rest
+  const parsed = commits.map((c) => parse(c.repo, c.message));
+  const pathChars = Math.min(44, Math.max(...parsed.map((p) => p.path.length), 10));
+  const msgX = Math.round(PATH_X + (pathChars + 2) * CHAR);
+  const msgChars = Math.floor((W - 24 - msgX) / CHAR) - 2;
+
   const rows = commits.map((c, i) => {
-    const { method, status, path, subject } = parse(c.repo, c.message);
+    const { method, status, path, subject } = parsed[i];
     const y = top + i * step;
     const delay = (0.35 + i * 0.12).toFixed(2);
     return `
@@ -83,8 +92,8 @@ function render(commits, t) {
     <text x="24" y="${y}" fill="${t.dim}">${stamp(c.date)}</text>
     <text x="172" y="${y}" fill="${t.method}">${method}</text>
     <text x="246" y="${y}" fill="${statusColor(status)}">${status}</text>
-    <text x="290" y="${y}" fill="${t.text}">${esc(cut(path, 30))}</text>
-    <text x="500" y="${y}" fill="${t.dim}">"${esc(cut(subject, 56))}"</text>
+    <text x="${PATH_X}" y="${y}" fill="${t.text}">${esc(cut(path, pathChars))}</text>
+    <text x="${msgX}" y="${y}" fill="${t.dim}">"${esc(cut(subject, msgChars))}"</text>
   </g>`;
   }).join("");
 
