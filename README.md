@@ -16,7 +16,7 @@ I like the part of software you only notice when it breaks. Lately most of what 
   <img alt="My latest commits, written as a server access log" src="assets/access-log-light.svg">
 </picture>
 
-<sub>My latest real commits, rewritten as server logs every couple of hours by <a href="scripts/access-log.mjs">a small script</a>. <code>feat</code> is a <code>POST 201</code>, <code>fix</code> is a <code>PATCH</code>, <code>chore</code> is a <code>204</code> nobody reads.</sub>
+<sub>My latest real commits, rewritten as server logs every day by <a href="scripts/access-log.mjs">a small script</a>. <code>feat</code> is a <code>POST 201</code>, <code>fix</code> is a <code>PATCH</code>, <code>chore</code> is a <code>204</code> nobody reads.</sub>
 
 **Worth a look**
 

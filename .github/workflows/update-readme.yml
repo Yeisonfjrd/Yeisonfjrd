@@ -2,8 +2,8 @@ name: Access log
 
 on:
   schedule:
-    # Every 2 hours. GitHub can delay scheduled runs, so updates land within a few hours
-    - cron: '17 */2 * * *'
+    # Once a day. GitHub can delay scheduled runs by a few hours
+    - cron: '0 8 * * *'
   workflow_dispatch:
 
 jobs:
