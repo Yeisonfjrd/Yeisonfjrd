@@ -14,56 +14,56 @@
     <text x="172" y="64" fill="#8250df">POST</text>
     <text x="246" y="64" fill="#0969da">201</text>
     <text x="290" y="64" fill="#1f2328">/garmin-coach-mcp</text>
-    <text x="438" y="64" fill="#8c959f">"anotaciones MCP y modo solo lectura"</text>
+    <text x="516" y="64" fill="#8c959f">"anotaciones MCP y modo solo lectura"</text>
   </g>
   <g class="row" style="animation-delay:0.47s">
-    <text x="24" y="88" fill="#8c959f">2026-10-16 14:03</text>
-    <text x="172" y="88" fill="#8250df">PUT</text>
-    <text x="246" y="88" fill="#1a7f37">200</text>
-    <text x="290" y="88" fill="#1f2328">/garmin-coach-mcp</text>
-    <text x="438" y="88" fill="#8c959f">"texto del GIF en un inglés más simple"</text>
+    <text x="24" y="88" fill="#8c959f">2026-10-17 16:01</text>
+    <text x="172" y="88" fill="#8250df">POST</text>
+    <text x="246" y="88" fill="#0969da">201</text>
+    <text x="290" y="88" fill="#1f2328">/garmin-coach-mcp/nutricion</text>
+    <text x="516" y="88" fill="#8c959f">"leer calorias consumidas del resumen diario"</text>
   </g>
   <g class="row" style="animation-delay:0.59s">
-    <text x="24" y="112" fill="#8c959f">2026-10-16 13:58</text>
+    <text x="24" y="112" fill="#8c959f">2026-10-16 14:03</text>
     <text x="172" y="112" fill="#8250df">PUT</text>
     <text x="246" y="112" fill="#1a7f37">200</text>
     <text x="290" y="112" fill="#1f2328">/garmin-coach-mcp</text>
-    <text x="438" y="112" fill="#8c959f">"add a demo GIF of a real create-and-schedule run"</text>
+    <text x="516" y="112" fill="#8c959f">"texto del GIF en un inglés más simple"</text>
   </g>
   <g class="row" style="animation-delay:0.71s">
     <text x="24" y="136" fill="#8c959f">2026-10-16 13:02</text>
     <text x="172" y="136" fill="#8250df">POST</text>
     <text x="246" y="136" fill="#0969da">201</text>
     <text x="290" y="136" fill="#1f2328">/Portfolio.yeison</text>
-    <text x="438" y="136" fill="#8c959f">"the light river reveals itself as you scroll, and reads as a ribb…"</text>
+    <text x="516" y="136" fill="#8c959f">"the light river reveals itself as you scroll, and reads…"</text>
   </g>
   <g class="row" style="animation-delay:0.83s">
     <text x="24" y="160" fill="#8c959f">2026-10-16 12:56</text>
     <text x="172" y="160" fill="#8250df">PATCH</text>
     <text x="246" y="160" fill="#1a7f37">200</text>
     <text x="290" y="160" fill="#1f2328">/Portfolio.yeison</text>
-    <text x="438" y="160" fill="#8c959f">"draw the light river once as SVG; motion is a compositor-only cro…"</text>
+    <text x="516" y="160" fill="#8c959f">"draw the light river once as SVG; motion is a composito…"</text>
   </g>
   <g class="row" style="animation-delay:0.95s">
     <text x="24" y="184" fill="#8c959f">2026-10-16 12:51</text>
     <text x="172" y="184" fill="#8250df">PATCH</text>
     <text x="246" y="184" fill="#1a7f37">200</text>
     <text x="290" y="184" fill="#1f2328">/Portfolio.yeison</text>
-    <text x="438" y="184" fill="#8c959f">"the light river drew at 23 fps; now well under budget"</text>
+    <text x="516" y="184" fill="#8c959f">"the light river drew at 23 fps; now well under budget"</text>
   </g>
   <g class="row" style="animation-delay:1.07s">
     <text x="24" y="208" fill="#8c959f">2026-10-16 12:45</text>
     <text x="172" y="208" fill="#8250df">POST</text>
     <text x="246" y="208" fill="#0969da">201</text>
     <text x="290" y="208" fill="#1f2328">/Portfolio.yeison</text>
-    <text x="438" y="208" fill="#8c959f">"a river of violet light filaments down the page, behind everything"</text>
+    <text x="516" y="208" fill="#8c959f">"a river of violet light filaments down the page, behind…"</text>
   </g>
   <g class="row" style="animation-delay:1.19s">
     <text x="24" y="232" fill="#8c959f">2026-10-16 12:26</text>
     <text x="172" y="232" fill="#8250df">POST</text>
     <text x="246" y="232" fill="#0969da">201</text>
     <text x="290" y="232" fill="#1f2328">/Portfolio.yeison</text>
-    <text x="438" y="232" fill="#8c959f">"my face as stacked lines inside an animated violet ring"</text>
+    <text x="516" y="232" fill="#8c959f">"my face as stacked lines inside an animated violet ring"</text>
   </g>
   <text x="24" y="260"><tspan fill="#7c3aed">yeison@api</tspan><tspan fill="#8c959f">:~$ </tspan></text>
   <rect class="cursor" x="128" y="248" width="8" height="15" fill="#1f2328"/>
